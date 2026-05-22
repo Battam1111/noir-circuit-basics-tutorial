@@ -1,0 +1,2 @@
+nargo check
+nargo execute
